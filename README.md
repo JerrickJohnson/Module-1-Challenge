@@ -1,2 +1,2 @@
-# project-1
+# project_1
 Project 1
