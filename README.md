@@ -1,4 +1,4 @@
-# project_1
+# Module-1-Challenge
 
 ## Desctiption
  Given the existing code for Horiseon website, I was given the
