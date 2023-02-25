@@ -15,8 +15,8 @@ The following image demonstrates the web application's appearance and functional
 
 ## The URL of the deployed application:
 
-https://jerrickjohnson.github.io/project_1/
+https://jerrickjohnson.github.io/Module-1-Challenge/
 
 ## The URL of the GitHub repository:
 
-https://github.com/JerrickJohnson/project_1.git
+https://github.com/JerrickJohnson/Module-1-Challenge.git
